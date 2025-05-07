@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LCD
 This repository contains all the code for interfacing with a **16x2 character I2C liquid-crystal display (LCD)**. This accompanies my **Youtube tutorial**: [Raspberry Pi - Mini LCD Display Tutorial](https://www.youtube.com/watch?v=fR5XhHYzUK0).
 
@@ -284,3 +285,6 @@ In addition, if you've never contributed to an open source project before, pleas
 - [Proposing changes to your work with pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests)
 
 [top :arrow_up:](#)
+=======
+# Smart_Home_Project
+>>>>>>> 45a6b6600ad89469b2e9d69cb838d7ce664cf144
